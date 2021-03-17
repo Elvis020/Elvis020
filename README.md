@@ -13,6 +13,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis020)](https://github.com/Elvis020/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elvis Opoku Amoako)](https://github.com/Elvis020/github-readme-stats)
+
 <!--
 **Elvis020/Elvis020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
