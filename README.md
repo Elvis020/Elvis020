@@ -10,8 +10,6 @@
 - 📫 How to reach me: [elvisopoku29@gmail.com]
 
 <img src="https://github-readme-stats.vercel.app/api?username=Elvis020&show_icons=true&theme=radical">
-
-[![Elvis020's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elvis020)](https://github.com/Elvis020/github-readme-stats)
 <!--
 **Elvis020/Elvis020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
