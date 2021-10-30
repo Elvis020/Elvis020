@@ -1,8 +1,5 @@
 ### Hi there 👋, I am Elvis 😀
 
-[![HitCount](http://hits.dwyl.com/Elvis020/Elvis-Documentary.svg)](http://hits.dwyl.com/Elvis020/Elvis-Documentary)
-
-
 ### Gist About me
 - 😜 I am a Software Developer with no boundaries when it comes to learning 
 - 🔭 I’m currently working on some projects
