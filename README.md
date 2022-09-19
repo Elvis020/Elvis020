@@ -2,8 +2,7 @@
 
 ### Gist About me
 - 😜 I am a Software Developer with no boundaries when it comes to learning 
-- 🔭 I’m currently working on some projects
-- 🌱 I’m currently learning Java, Scala et al
+- 🌱 I’m currently working with Java, Scala et al
 - 📫 How to reach me: [elvisopoku29@gmail.com]
 
 <br>
